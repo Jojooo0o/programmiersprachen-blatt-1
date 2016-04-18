@@ -1,0 +1,32 @@
+1.3
+
+double -> int = F
+
+1.4
+
+Initialisierung: Anfangszuweisung eines Wertes.
+Zuweisung: einer variable einen anderen Wert zuordnen.
+
+Unterschied: Intialisierung ist der "Anfangswert". Zuweisung kann jeder beliebige Wert sein, der der Variable zugeordnet wird.
+
+1.5
+
+Deklaration: Benennt Variable.
+             Deklarationen müssen eindeutig sein und verhindern Doppelbenennungen.
+Definition: Zuteilung des Speicherbereiches einer Variable.
+
+Unterschied: Deklaration ist die Benennung der Variable, Definition weist der Variable einen gewissen Speicher zu.
+Bsp:
+Funktion:
+int main:
+int = Definition
+main = Deklaration
+Variablen:
+double a:
+double = Definition
+a = Deklaration
+
+
+int baum(int a, int b); deklaration?
+
+int baum(int a, int b){} definition?
