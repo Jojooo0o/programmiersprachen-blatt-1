@@ -30,3 +30,5 @@ a = Deklaration
 int baum(int a, int b); deklaration?
 
 int baum(int a, int b){} definition?
+
+Signatur: Eingabe, Ausgabe und Name
