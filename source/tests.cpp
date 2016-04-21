@@ -114,6 +114,18 @@ TEST_CASE("describe_cylinderSurface", "[cylinderSurface]")
 	REQUIRE(cylinderSurface(5, 3) == Approx(150.0));
 }
 
+double mileToKilometer(double a)
+{
+	int Kilometer=0;
+	Kilometer=a/0.62137;
+	return Kilometer;
+}
+
+TEST_CASE("describe_mileToKilometer", "[mileToKilometer]")
+{
+	REQUIRE(mileToKilometer(10.0) == Approx(16.0));
+}
+
 
 int main(int argc, char* argv[])
 {
