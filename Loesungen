@@ -32,3 +32,35 @@ int baum(int a, int b); deklaration?
 int baum(int a, int b){} definition?
 
 Signatur: Eingabe, Ausgabe und Name
+
+
+Aufgabe 1.13
+C++: Wurde 1979 als Weiterentwicklung von C entwickelt und ist eine der am weitesten verbreitete Programmiersprache
+Quellcode: Text eines Programmes
+Compiler: Übersetzer der Programiersprache für den Computer
+Linker: Verbindung zwischen unterschiedlichen Programmen / Verlinkungen
+Objektcode: Zwischenergebnis des Compilers in Maschinencode
+Ausführbare Datei: datei die vom System ausgeführt werden kann, bsp: .exe .bat
+Main(): in der Mainmethode werden die Funktionen aufgerufen
+#include: fügt (in der Regel) Header Dateien in das Programm ein
+Kommentar: Dient zur Beschriftung des Texts zum besseren Verständnis
+Header: Beschreibt in der Regel Funktionen die nicht in der Main-Methode direkt enthalten sind
+Programm: Bestimmte Handlungsanweisungen die vom Computer ausgeführt werden sollen
+Ausgabe: Unterschiedliche Arten von Rückgaben
+std::cout: Terminal output
+std::cin: Terminal input
+<<: Ausgabe in Combi mit cout; sonst bitshift
+>>: Eingabe in Combi mit cin; sonst bitshift
+Funktion: Unterprogramm mit bestimmter Aufgabe
+Funktionssignatur: Funktionsname + Parameter
+Deklaration: Bezeichnung von Funktion, Variablen
+Definition: Wird vom Compiler benötigt um Speicher zu reservieren
+Typ: Typ der Werte/Daten (int usw.)
+Typkonvertierung: Umwandlung von Datentypen
+Variable: Vorübergehende Reservierung von Speicherplatz für einen gewissen Zweck, Wert variabel
+Name: 
+Wert: Bestimmter Wert der einer Variable zugeordnet werden kann
+Initialisierung: Anweisung für den Compiler einen gewissen Wert anzulegen
+Zuweisung: Zuweisung eines Wertes zu einer Variable
+const: Eine Unveränderliche Variable
+Gültigkeitsbereich: Bereich in dem eine Variable definiert ist
